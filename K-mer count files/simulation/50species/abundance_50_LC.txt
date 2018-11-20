@@ -1,0 +1,50 @@
+Ruminococcus bromii L2-63 draft genome	0.54967895
+Leptotrichia buccalis DSM 1135	0.080938392
+Streptococcus thermophilus JIM 8232 complete genome	0.079319471
+Clostridium difficile QCD-23m63 chromosome	0.07511644
+Streptococcus salivarius CCHSS3 complete genome	0.043659173
+Lactobacillus amylovorus GRL 1112	0.023848722
+Lactobacillus rhamnosus GG whole genome sequence	0.022904602
+Eubacterium cylindroides T2-87 draft genome	0.022045573
+Eubacterium rectale M104/1 draft genome	0.011040146
+Gardnerella vaginalis 409-05	0.010400866
+Bacillus cereus G9842	0.009120099
+Faecalibacterium prausnitzii L2/6 draft genome	0.007551048
+Lactobacillus fermentum CECT 5716	0.006696133
+Bacteroides xylanisolvens XB1A draft genome	0.006443973
+Acinetobacter baumannii TCDC-AB0715	0.004809801
+Lactococcus lactis subsp. cremoris SK11	0.004469541
+Bacteroides fragilis 638R genome	0.003858959
+Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043 DNA	0.003443843
+Helicobacter pylori 52	0.003406416
+Porphyromonas gingivalis ATCC 33277 DNA	0.002732919
+Bacteroides vulgatus ATCC 8482	0.002591637
+Fusobacterium nucleatum subsp. vincentii 3_1_36A2	0.002571067
+Parabacteroides distasonis ATCC 8503	0.002519692
+Porphyromonas asaccharolytica DSM 20707	0.002016576
+Bacteroides fragilis NCTC 9343	0.001969717
+Bifidobacterium animalis subsp. lactis V9	0.001572261
+Acinetobacter baumannii AB0057	0.001509748
+Eubacterium rectale ATCC 33656	0.001352612
+Ruminococcus obeum A2-162 draft genome	0.00117611
+Bacteroides thetaiotaomicron VPI-5482	0.001111189
+Alistipes shahii WAL 8301 draft genome	0.000895754
+Propionibacterium acnes 266	0.000890035
+Eggerthella lenta DSM 2243	0.000830131
+Porphyromonas gingivalis W83	0.000792703
+Clostridiales sp. SS3/4 draft genome	0.000728384
+Roseburia intestinalis XB6B4 draft genome	0.000725173
+Escherichia coli SMS-3-5	0.000622523
+Bifidobacterium longum subsp. infantis ATCC 15697	0.000620917
+Bacteroides salanitronis DSM 18170	0.000604361
+Staphylococcus epidermidis ATCC 12228	0.000493182
+Bacteroides fragilis YCH46 DNA	0.000402874
+Prevotella melaninogenica ATCC 25845 chromosome I	0.000384511
+Propionibacterium acnes TypeIA2 P.acn31	0.000374176
+Bifidobacterium breve ACS-071-V-Sch8b	0.000359325
+Odoribacter splanchnicus DSM 20712	0.000348689
+Lactobacillus amylovorus GRL1118	0.000277948
+Clostridium perfringens str. 13 DNA	0.000265907
+Clostridium difficile QCD-66c26 chromosome	0.000177806
+Methanobrevibacter smithii ATCC 35061	0.000174696
+Porphyromonas gingivalis TDC60 DNA	0.000155229

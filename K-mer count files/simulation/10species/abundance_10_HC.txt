@@ -1,0 +1,10 @@
+Helicobacter pylori F30 DNA	0.178071916
+Leptotrichia buccalis DSM 1135	0.155728611
+Parabacteroides distasonis ATCC 8503	0.150314792
+Acidaminococcus intestini RyC-MR95	0.132745034
+Bacteroides salanitronis DSM 18170	0.117207085
+Lactobacillus johnsonii FI9785	0.081456941
+Bacteroides vulgatus ATCC 8482	0.050638765
+Propionibacterium acnes TypeIA2 P.acn31	0.046435171
+Methanobrevibacter smithii ATCC 35061	0.044234731
+Bifidobacterium breve ACS-071-V-Sch8b	0.043166953

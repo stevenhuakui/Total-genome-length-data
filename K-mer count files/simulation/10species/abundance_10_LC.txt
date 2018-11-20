@@ -1,0 +1,10 @@
+Parabacteroides distasonis ATCC 8503	0.667531766
+Acidaminococcus intestini RyC-MR95	0.064010601
+Bacteroides salanitronis DSM 18170	0.057077111
+Bacteroides vulgatus ATCC 8482	0.051030603
+Lactobacillus johnsonii FI9785	0.049442198
+Propionibacterium acnes TypeIA2 P.acn31	0.03937052
+Bifidobacterium breve ACS-071-V-Sch8b	0.020736684
+Methanobrevibacter smithii ATCC 35061	0.017747292
+Helicobacter pylori F30 DNA	0.017683506
+Leptotrichia buccalis DSM 1135	0.015369717

@@ -1,0 +1,10 @@
+Lactobacillus johnsonii FI9785	0.436229714
+Bacteroides salanitronis DSM 18170	0.396219303
+Bifidobacterium breve ACS-071-V-Sch8b	0.070372242
+Parabacteroides distasonis ATCC 8503	0.022124135
+Helicobacter pylori F30 DNA	0.021873864
+Methanobrevibacter smithii ATCC 35061	0.021483761
+Leptotrichia buccalis DSM 1135	0.012153735
+Bacteroides vulgatus ATCC 8482	0.008629534
+Acidaminococcus intestini RyC-MR95	0.005540347
+Propionibacterium acnes TypeIA2 P.acn31	0.005373364
